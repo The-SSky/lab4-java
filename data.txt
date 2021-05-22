@@ -1,0 +1,2 @@
+AudioLibrary|title:A|price:100|items:[abc, def, ghk, lmn]|durations:[5, 6, 7, 8]
+VideoLibrary|title:V|price:200|items:[abc, def, ghk, lmn]|durations:[20, 21, 22, 23]
